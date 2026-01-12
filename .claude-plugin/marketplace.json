@@ -1,0 +1,13 @@
+{
+    "name": "claude-plugins-xuziyang",
+    "owner": {
+      "name": "xuziyang"
+    },
+    "plugins": [
+      {
+        "name": "typescript-lsp",
+        "source": "./plugins/typescript-lsp",
+        "description": "TypeScript/JavaScript LSP (typescript-language-server) for Claude Code"
+      }
+    ]
+  }

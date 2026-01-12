@@ -1,0 +1,13 @@
+{
+  "name": "typescript-lsp",
+  "version": "1.0.0",
+  "description": "TypeScript/JavaScript LSP (typescript-language-server) for Claude Code",
+  "author": {
+    "name": "xuziyang",
+    "email": "767637918@qq.com",
+    "url": "https://github.com/xuziyang"
+  },
+  "repository": "https://github.com/xuziyang/claude-plugins-xuziyang",
+  "license": "MIT",
+  "keywords": ["lsp", "typescript", "language-server", "code-intelligence"]
+}
